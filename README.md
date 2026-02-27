@@ -41,7 +41,7 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 contributions in the last year
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rafiaf15/Rafiaf15/output/github-contribution-grid-snake.svg" />
 </p>
